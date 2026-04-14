@@ -24,11 +24,11 @@ const About = () => {
 
               <div className="flex flex-wrap gap-4">
                 <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
-                  <span className="font-semibold text-primary">4+</span>
+                  <span className="font-semibold text-primary">6+</span>
                   <span className="text-gray-600 ml-2">Years Experience</span>
                 </div>
                 <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
-                  <span className="font-semibold text-primary">10+</span>
+                  <span className="font-semibold text-primary">20+</span>
                   <span className="text-gray-600 ml-2">Projects Completed</span>
                 </div>
                 <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
