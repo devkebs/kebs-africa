@@ -33,8 +33,8 @@ const Hero = () => {
   }, [currentIndex]);
 
   const stats = [
-    { number: "4+", label: "Years Experience" },
-    { number: "10+", label: "Projects Completed" },
+    { number: "6+", label: "Years Experience" },
+    { number: "30+", label: "Projects Completed" },
     { number: "20+", label: "Happy Clients" },
     { number: "10+", label: "Technologies" },
   ];
@@ -106,7 +106,7 @@ const Hero = () => {
                 href="#contact"
                 className="group border-2 border-primary text-primary px-8 py-4 rounded-lg font-semibold hover:bg-primary hover:text-white transition-all duration-300 transform hover:-translate-y-1 flex items-center justify-center"
               >
-                Let's your your project
+                Let's discuss your project
                 <svg
                   className="w-5 h-5 ml-2 group-hover:scale-110 transition-transform"
                   fill="none"
