@@ -44,8 +44,8 @@ const Contact = () => {
     {
       icon: "📱",
       title: "Phone",
-      value: "+234 702 677 9219",
-      link: "tel:+2347026779219",
+      value: "+234 913 275 4532",
+      link: "tel:+2349132754532",
     },
   ];
 
