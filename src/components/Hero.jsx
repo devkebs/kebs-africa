@@ -74,7 +74,7 @@ const Hero = () => {
             <p className="text-xl text-gray-500 mb-8 max-w-2xl leading-relaxed">
               I build{" "}
               <span className="font-semibold text-primary">
-                scalable web applications
+                Scalable Web Applications
               </span>{" "}
               that deliver exceptional user experiences and drive business
               growth. Currently specializing in
@@ -164,7 +164,7 @@ const Hero = () => {
                   <p className="text-gray-600 mb-4">Full Stack Developer</p>
 
                   <div className="flex justify-center space-x-3 mb-6">
-                    {["React", "Node.js", "TypeScript","PHP"].map((tech) => (
+                    {["React", "Node.js", "Laravel", "TypeScript","PHP"].map((tech) => (
                       <span
                         key={tech}
                         className="px-3 py-1 bg-primary/10 text-primary rounded-full text-sm font-medium border border-primary/10"
@@ -183,7 +183,7 @@ const Hero = () => {
                     </div>
                     <div className="flex items-center justify-between text-sm">
                       <span className="text-gray-500">Location</span>
-                      <span className="text-gray-700">Remote / Hybrid</span>
+                      <span className="text-gray-700">Remote / Hybrid / Akure Nigeria</span>
                     </div>
                     <div className="flex items-center justify-between text-sm">
                       <span className="text-gray-500">Status</span>
