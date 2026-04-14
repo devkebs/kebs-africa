@@ -11,7 +11,7 @@ const About = () => {
             <div>
               <h3 className="text-2xl font-semibold mb-6">My Journey</h3>
               <p className="text-gray-600 mb-6">
-                I'm a passionate full-stack developer with 4+ years of
+                I'm a passionate full-stack developer with 6+ years of
                 experience creating digital solutions that make a difference. I
                 specialize in modern web technologies and love turning complex
                 problems into simple, beautiful designs.
