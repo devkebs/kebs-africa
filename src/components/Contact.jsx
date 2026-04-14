@@ -66,7 +66,7 @@ const Contact = () => {
               I'm always open to discussing new opportunities, creative ideas,
               or opportunities to be part of your vision.
             </p>
-
+{/* 
             <div className="space-y-4">
               {contactInfo.map((item, index) => (
                 <a
@@ -85,7 +85,7 @@ const Contact = () => {
                   </div>
                 </a>
               ))}
-            </div>
+            </div> */}
           </div>
 
           {/* Contact Form */}

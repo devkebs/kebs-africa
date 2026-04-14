@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <a href="#home" className="text-2xl font-bold text-white">
-              SwiftCodes
+              Kebs Africa
             </a>
             <p className="text-gray-400 mt-2">
               Creating amazing digital experiences
@@ -45,7 +45,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {currentYear} Swiftcodes. All rights reserved.</p>
+          <p>&copy; {currentYear} Kebs Africa. All rights reserved.</p>
         </div>
       </div>
     </footer>
