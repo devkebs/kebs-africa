@@ -26,20 +26,20 @@ const Contact = () => {
     {
       icon: "📧",
       title: "Email",
-      value: "lawalquadri507@gmail.com",
-      link: "mailto:lawalquadri507@gmail.com",
+      value: "kebs.bolaji@gmail.com",
+      link: "mailto:kebs.bolaji@gmail.com",
     },
     {
       icon: "💼",
       title: "LinkedIn",
-      value: "linkedin.com/in/abdulquadri-lawal",
-      link: "https://linkedin.com/in/abdulquadri-lawal",
+      value: "https://ng.linkedin.com/in/kehinde-bolaji-ba9b78a8",
+      link: "https://ng.linkedin.com/in/kehinde-bolaji-ba9b78a8",
     },
     {
       icon: "🐙",
       title: "GitHub",
-      value: "github.com/SwiftCodes01",
-      link: "https://github.com/SwiftCodes01",
+      value: "https://github.com/devkebs",
+      link: "https://github.com/devkebs",
     },
     {
       icon: "📱",
