@@ -12,19 +12,19 @@ const Footer = () => {
               Kebs Africa
             </a>
             <p className="text-gray-400 mt-2">
-              Creating amazing digital experiences
+              Creating amazing technologies that works for you
             </p>
           </div>
 
           <div className="flex space-x-6">
             <a
-              href="https://github.com/SwiftCodes01"
+              href="https://github.com/devkebs"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               GitHub
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://ng.linkedin.com/in/kehinde-bolaji-ba9b78a8"
               className="text-gray-400 hover:text-white transition-colors duration-300"
             >
               LinkedIn
@@ -32,12 +32,7 @@ const Footer = () => {
             <a
               href="https://twitter.com"
               className="text-gray-400 hover:text-white transition-colors duration-300"
-            >
-              Twitter
-            </a>
-            <a
-              href="mailto:lawalquadri507@gmail.com"
-              className="text-gray-400 hover:text-white transition-colors duration-300"
+            
             >
               Email
             </a>
