@@ -62,7 +62,7 @@ const Hero = () => {
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6">
               Hi, I'm{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-accent">
-                Bolaji
+                Kehinde Bolaji
               </span>
             </h1>
 
@@ -106,7 +106,7 @@ const Hero = () => {
                 href="#contact"
                 className="group border-2 border-primary text-primary px-8 py-4 rounded-lg font-semibold hover:bg-primary hover:text-white transition-all duration-300 transform hover:-translate-y-1 flex items-center justify-center"
               >
-                Let's Talk
+                Let's your your project
                 <svg
                   className="w-5 h-5 ml-2 group-hover:scale-110 transition-transform"
                   fill="none"
@@ -159,7 +159,7 @@ const Hero = () => {
 
                 <div className="text-center">
                   <h3 className="text-2xl font-bold text-gray-800 mb-2">
-                    Swiftcodes
+                    Kehinde Bolaji
                   </h3>
                   <p className="text-gray-600 mb-4">Full Stack Developer</p>
 
