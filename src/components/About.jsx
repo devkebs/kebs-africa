@@ -28,11 +28,11 @@ const About = () => {
                   <span className="text-gray-600 ml-2">Years Experience</span>
                 </div>
                 <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
-                  <span className="font-semibold text-primary">20+</span>
+                  <span className="font-semibold text-primary">50+</span>
                   <span className="text-gray-600 ml-2">Projects Completed</span>
                 </div>
                 <div className="bg-white px-4 py-2 rounded-lg shadow-sm">
-                  <span className="font-semibold text-primary">10+</span>
+                  <span className="font-semibold text-primary">30+</span>
                   <span className="text-gray-600 ml-2">Happy Clients</span>
                 </div>
               </div>
@@ -49,7 +49,7 @@ const About = () => {
                 <div className="text-3xl font-bold text-primary mb-2">
                   Backend
                 </div>
-                <p className="text-gray-600">Node.js, Python, SQL</p>
+                <p className="text-gray-600">Laravel, Node.js, Python, SQL</p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-sm text-center">
                 <div className="text-3xl font-bold text-primary mb-2">
@@ -61,7 +61,7 @@ const About = () => {
                 <div className="text-3xl font-bold text-primary mb-2">
                   Mobile
                 </div>
-                <p className="text-gray-600">React Native</p>
+                <p className="text-gray-600">React Native, Flutter</p>
               </div>
             </div>
           </div>
